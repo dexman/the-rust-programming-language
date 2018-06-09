@@ -1,0 +1,6 @@
+[package]
+name = "temperature_converter"
+version = "0.1.0"
+authors = ["Arthur Dexter <adexter@dexman.net>"]
+
+[dependencies]
